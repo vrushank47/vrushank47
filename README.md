@@ -1,5 +1,5 @@
 # 💫 About Me:
-hello everyone ,<br>im vrushank saravade<br>im a 3rd year student studying IT engineering in sppu<br>my hobbies r playing games ,watching animes and i like to code for interesting things as well <br>im still learning but also enjoy the journey along <br>
+hello everyone ,<br>im vrushank saravade<br>im a 3rd year student studying IT engineering in sppu <br>im still learning but also enjoy the journey along <br>
 
 
 ## 🌐 Socials:
