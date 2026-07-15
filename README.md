@@ -1,14 +1,155 @@
-# 💫 About Me:
-Hello everyone ,<br>I'm Vrushank Saravade<br>I'm a 4th year student studying IT engineering in sppu<br>I'm still learning but also enjoy the journey along.....<br>Also im open to all the work  
+<h1 align="center">Hi 👋, I'm Vrushank Saravade</h1>
+<h3 align="center">Backend Developer • Full Stack Developer • IT Engineering Student</h3>
 
+<p align="center">
+  <a href="https://portfolio-8fyf.onrender.com">
+    <img src="https://img.shields.io/badge/🌐 Portfolio-Live-gold?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/vrushank47">
+    <img src="https://img.shields.io/github/followers/vrushank47?label=Followers&style=for-the-badge" />
+  </a>
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vrushank736) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/vrushank-saravade-a53a84372) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Vrushank736) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vrushanksaravade2005@gmail.com) 
+---
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
+## 👨‍💻 About Me
 
+🎓 Final-year Information Technology student at Savitribai Phule Pune University.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+💻 Passionate about backend development and building scalable web applications.
 
+🚀 Currently looking for Backend / Full Stack Internship opportunities.
+
+🌱 Learning something new every day while building projects in public.
+
+🌐 Portfolio: **https://portfolio-8fyf.onrender.com**
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 DevMatch v2
+Backend developer networking platform built using **FastAPI**, **MongoDB**, and **JWT Authentication**.
+
+**Tech Stack**
+- FastAPI
+- MongoDB
+- JWT
+- Python
+
+🔗 https://github.com/vrushank47/devmatchv2
+
+---
+
+### 🔹 Personal Portfolio
+
+A full-stack portfolio built with React, Express.js, MongoDB Atlas and Render.
+
+**Tech Stack**
+- React
+- Express.js
+- MongoDB Atlas
+- Tailwind CSS
+
+🌐 https://portfolio-8fyf.onrender.com
+
+---
+
+### 🔹 Meal Finder
+
+Responsive React application using a public recipe API.
+
+**Tech Stack**
+- React
+- JavaScript
+- REST API
+
+🔗 https://github.com/vrushank47/meal-finder
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,typescript" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vrushank47&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrushank47&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=vrushank47&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+
+<a href="https://portfolio-8fyf.onrender.com">
+<img src="https://img.shields.io/badge/Portfolio-gold?style=for-the-badge"/>
+</a>
+
+<a href="https://linkedin.com/in/vrushank-saravade-a53a84372">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://x.com/Vrushank736">
+<img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x"/>
+</a>
+
+<a href="mailto:vrushanksaravade2005@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+## 💭 Quote
+
+> **Build. Break. Learn. Repeat.**
+
+---
+
+<p align="center">
+  Thanks for visiting my profile! ⭐
+</p>
