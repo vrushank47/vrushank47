@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vrushank Saravade</h1>
 <h3 align="center">Backend Developer • Full Stack Developer • IT Engineering Student</h3>
+![Profile Views](https://komarev.com/ghpvc/?username=vrushank47&label=Profile%20Views&color=grey&style=flat-square)
 
 <p align="center">
   <a href="https://portfolio-8fyf.onrender.com"><img src="https://img.shields.io/badge/🌐_Portfolio-Live-gold?style=for-the-badge" /></a>
