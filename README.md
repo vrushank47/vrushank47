@@ -1,56 +1,99 @@
-<h1 align="center">Hi 👋, I'm Vrushank Saravade</h1>
-<h3 align="center">Backend Developer • Full Stack Developer • IT Engineering Student</h3>
+<!-- HEADER -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vrushank47&label=Profile%20Views&color=grey&style=flat-square" alt="Profile Views" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,50:BB9AF7,100:F7768E&height=210&section=header&text=Vrushank%20Saravade&fontSize=46&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Backend%20%E2%80%A2%20Full%20Stack%20%E2%80%A2%20IT%20Engineering&descSize=17&descAlignY=62" />
 </p>
+
 <p align="center">
-  <a href="https://portfolio-8fyf.onrender.com"><img src="https://img.shields.io/badge/🌐_Portfolio-Live-gold?style=for-the-badge" /></a>
+  <a href="https://github.com/vrushank47">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=900&color=7AA2F7&center=true&vCenter=true&width=620&lines=Building+scalable+backends+%E2%9A%99%EF%B8%8F;Turning+ideas+into+full-stack+apps+%F0%9F%9A%80;Build.+Break.+Learn.+Repeat.+%F0%9F%94%81" alt="Typing animation" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://portfolio-8fyf.onrender.com"><img src="https://img.shields.io/badge/Portfolio-Live-7AA2F7?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://linkedin.com/in/vrushank-saravade-a53a84372"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/Vrushank736"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="mailto:vrushanksaravade2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
----
-
-## 👨‍💻 About Me
-
-- 🎓 Final-year IT student at Savitribai Phule Pune University
-- 💻 Focused on backend development and scalable web apps
-- 🚀 **Open to Backend / Full Stack internships**
-- 🌱 Building in public and learning something new every day
-
----
-
-## 🚀 Featured Projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| [**Smart Job Matcher**](https://github.com/vrushank47/Smart-Job-Matcher) | Explainable resume-to-job matching with skill-gap analysis | Python · NLP · TF-IDF · Cosine Similarity |
-| [**DevMatch v2**](https://github.com/vrushank47/devmatchv2) | Networking platform for developers with secure auth | FastAPI · MongoDB · JWT · Python |
-| [**Personal Portfolio**](https://portfolio-8fyf.onrender.com) | Full-stack portfolio, live on Render | React · Express · MongoDB Atlas · Tailwind |
-| [**Meal Finder**](https://github.com/vrushank47/meal-finder) | Recipe search app using a public API | React · JavaScript · REST API |
-
----
-
-## 💻 Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,react,html,css,tailwind,nodejs,express,fastapi,django,mongodb,mysql,sqlite,git,github,vscode,postman" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vrushank47&label=Profile%20Views&color=7AA2F7&style=flat-square" alt="Profile Views" />
 </p>
 
----
+<br>
 
-## 📊 GitHub Stats
+<!-- ABOUT -->
+<table align="center">
+  <tr>
+    <td>
+      🎓 &nbsp;Final-year <b>IT</b> student @ Savitribai Phule Pune University<br>
+      ⚙️ &nbsp;Focused on <b>backend development</b> & scalable web apps<br>
+      🌱 &nbsp;Building in public, learning something new every day<br>
+      🚀 &nbsp;<b>Open to Backend / Full Stack internships</b>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<!-- PROJECTS -->
+<h2 align="center">✨ Featured Projects</h2>
+
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 <a href="https://github.com/vrushank47/Smart-Job-Matcher">Smart Job Matcher</a></h3>
+      Explainable resume-to-job matching with skill-gap analysis.<br><br>
+      <code>Python</code> <code>NLP</code> <code>TF-IDF</code> <code>Cosine Similarity</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤝 <a href="https://github.com/vrushank47/devmatchv2">DevMatch v2</a></h3>
+      Networking platform for developers with secure authentication.<br><br>
+      <code>FastAPI</code> <code>MongoDB</code> <code>JWT</code> <code>Python</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌐 <a href="https://portfolio-8fyf.onrender.com">Personal Portfolio</a></h3>
+      Full-stack portfolio, live on Render.<br><br>
+      <code>React</code> <code>Express</code> <code>MongoDB Atlas</code> <code>Tailwind</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🍲 <a href="https://github.com/vrushank47/meal-finder">Meal Finder</a></h3>
+      Recipe search app powered by a public API.<br><br>
+      <code>React</code> <code>JavaScript</code> <code>REST API</code>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<!-- TECH STACK -->
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vrushank47&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrushank47&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts&theme=dark" /><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,mongodb,mysql,sqlite&theme=dark" /><br>
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,git,github,vscode,postman&theme=dark" />
 </p>
 
+<br>
 
+<!-- STATS -->
+<h2 align="center">📊 GitHub Stats</h2>
 
----
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vrushank47&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0,1a1b27,24283b&border_radius=12" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrushank47&layout=compact&theme=tokyonight&hide_border=true&bg_color=0,1a1b27,24283b&border_radius=12" />
+</p>
 
-> **Build. Break. Learn. Repeat.**
+<p align="center">
+  <img height="150" src="https://streak-stats.demolab.com?user=vrushank47&theme=tokyonight&hide_border=true&border_radius=12&background=1a1b27" />
+</p>
 
-<p align="center">Thanks for visiting my profile! ⭐</p>
+<!-- FOOTER -->
+<p align="center"><i>Thanks for stopping by, a ⭐ is always appreciated!</i></p>
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F7768E,50:BB9AF7,100:7AA2F7&height=110&section=footer" />
+</p>
