@@ -16,9 +16,7 @@
   <a href="mailto:vrushanksaravade2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vrushank47&label=Profile%20Views&color=7AA2F7&style=flat-square" alt="Profile Views" />
-</p>
+
 
 <br>
 
