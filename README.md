@@ -82,10 +82,7 @@
 <!-- STATS -->
 <h2 align="center">📊 GitHub Stats</h2>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vrushank47&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0,1a1b27,24283b&border_radius=12" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrushank47&layout=compact&theme=tokyonight&hide_border=true&bg_color=0,1a1b27,24283b&border_radius=12" />
-</p>
+
 
 <p align="center">
   <img height="150" src="https://streak-stats.demolab.com?user=vrushank47&theme=tokyonight&hide_border=true&border_radius=12&background=1a1b27" />
